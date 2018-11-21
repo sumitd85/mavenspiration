@@ -26,7 +26,7 @@
                     </goals>
                     <configuration>
                         <publisher>
-                            <contextUrl>https://oss.jfrog.org</contextUrl>
+                            <contextUrl>http://localhost:8081/artifactory</contextUrl>
                             <username>admin</username>
                             <password>85Clover</password>
                             <repoKey>libs-release-local</repoKey>
