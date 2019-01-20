@@ -3,9 +3,7 @@
   <groupId>com.mcnz.maven.example</groupId>
   <artifactId>maven-tutorial</artifactId>
   <version>1.0.2-SNAPSHOT</version>
-  
 
-  
 	<build>
 		<plugins>
 			<plugin>
