@@ -16,3 +16,7 @@ public class UnsafeAtAnySpeed {
 	}
 
 }
+
+/*
+https://github.com/cameronmcnz/mavenspiration.git
+*/
