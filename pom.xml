@@ -4,12 +4,7 @@
   <artifactId>maven-tutorial</artifactId>
   <version>1.0.2-SNAPSHOT</version>
   
-  <pluginRepositories>
-    <pluginRepository>
-      <id>Maven-Artifactory-Plugin</id>
-      <url>https://jcenter.bintray.com</url>
-    </pluginRepository>
-  </pluginRepositories> 
+
   
 	<build>
 		<plugins>
